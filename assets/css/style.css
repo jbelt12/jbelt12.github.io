@@ -1,7 +1,7 @@
 p {
     font-family: "Trirong", serif;
     font-size: 16px;
-    margin-top: 40px;
+    margin: 40px;
     }
 
 
@@ -11,5 +11,8 @@ h2,
 h3,
 h4{
     font-family: 'Noto Sans', sans-serif;
-margin-top:60x
+margin: 40px;
+}
+body{
+    background-color:moccasin;
 }
