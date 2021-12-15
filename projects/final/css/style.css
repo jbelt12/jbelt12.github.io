@@ -1,9 +1,8 @@
 
 body{
     background-color: lightgray;
-margin-top: 50px;
-margin-left:100px;
-margin-bottom: 50px;
+
+margin: 50px;
 }
 p{
     padding-bottom: 20px;
@@ -11,7 +10,7 @@ p{
 p {
     font-family: "Trirong", serif;
     font-size: 16px;
-    }
+}
 
 
 
@@ -21,4 +20,11 @@ h3,
 h4{
     font-family: 'Noto Sans', sans-serif;
 } 
+h1,
+h2{
+    font-weight: bold;
+}
+img{
+    padding-bottom: 10px;
+}
 
